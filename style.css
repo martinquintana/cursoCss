@@ -1,0 +1,35 @@
+#titulo {
+    color: tomato;
+}
+
+p.texto {
+    color: slateblue;
+}
+
+.color {
+    /* border: 5px red groove; */
+    /* 
+    dotted
+    dashed
+    solid
+    double
+    groove
+    ridge
+    inset
+    outset
+    none
+    hidden
+     */
+
+    /* border-style: solid;
+    border-color: blue;
+    border-radius: 5px;
+    border-width: 2rem; */
+}
+
+#fondo{
+    /* opacity: 0.3; */
+    height: 300px;
+    background: red url('bmw.jpg') repeat-y center bottom / 100px 100px;
+
+}
