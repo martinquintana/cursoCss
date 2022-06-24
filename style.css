@@ -33,3 +33,13 @@ p.texto {
     background: red url('bmw.jpg') repeat-y center bottom / 100px 100px;
 
 }
+
+.margen {
+    background-color: chocolate;
+    margin: 15px ;
+    padding: 30px 15px 5px;
+    border: solid 1px black;
+    height: 100px;
+    width: 50px;
+    overflow: scroll;
+}
