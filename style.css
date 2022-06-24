@@ -6,6 +6,11 @@ p.texto {
     color: slateblue;
 }
 
+*{
+    font-size: 24px;
+    /* color: black; */
+}
+
 .color {
     /* border: 5px red groove; */
     /* 
@@ -42,4 +47,29 @@ p.texto {
     height: 100px;
     width: 50px;
     overflow: scroll;
+    outline: 1px solid red;
+}
+
+.text{
+    font-family: 'Ubuntu', sans-serif;
+ text-align: justify;
+ text-decoration: overline;
+ text-shadow: 3px 5px 5px blue;
+}
+
+a:link {
+    color: blueviolet;
+}
+
+a:visited{
+    color: gray;
+}
+
+a:hover{
+    color: yellow;
+}
+
+a:active
+{
+    color: red;
 }
