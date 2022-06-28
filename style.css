@@ -133,9 +133,20 @@ span {
 
 .right {
     float: right;
-    width: 100px;
 }
 
 .container {
     height: 200px;
+}
+
+.column {
+    margin: 0;
+    padding: 10px 0;
+    width: 33.3%;
+}
+
+.inline-block {
+    display: inline-block;
+    height: 55px;
+    background-color: red;
 }
