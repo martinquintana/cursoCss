@@ -150,3 +150,11 @@ span {
     height: 55px;
     background-color: red;
 }
+
+.center {
+    padding: 50px 0;
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+    background-color: aqua;
+}
